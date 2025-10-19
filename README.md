@@ -1,1 +1,2 @@
-# vi-tma
+# VI-TMA
+telegram mini application

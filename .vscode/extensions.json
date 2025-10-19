@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "ms-vscode.vscode-json",
+    "ms-vscode.vscode-typescript-next",
+    "esbenp.prettier-vscode",
+    "firsttris.vscode-jest-runner",
+    "bradlc.vscode-tailwindcss",
+    "prisma.prisma",
+    "formulahendry.auto-rename-tag",
+    "christian-kohler.path-intellisense"
+  ]
+}
